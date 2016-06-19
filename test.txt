@@ -3,3 +3,4 @@ cat  //display ÄÚÈİ
 git test
 hello
 maodun
+conflict
