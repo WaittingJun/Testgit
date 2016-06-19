@@ -5,6 +5,6 @@ hello
 maodun
 conflict
 dev1
-abcdef
+abcdef=1234
 dev2
 12345
