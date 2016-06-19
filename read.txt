@@ -11,3 +11,4 @@
 11、git reset --hard HEAD^	//回退上一个版本，HEAD当前版本，HEAD^上一个版本，HEAD^^上上一个版本，往上
 				10个版本写成HEAD~10 
 12、git reset--hard ***(commit 后面的前几位数字)
+13、git reflog		//当关掉电脑后忘记版本号 输入此命令可以查看每一次命令
