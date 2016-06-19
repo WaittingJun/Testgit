@@ -1,0 +1,9 @@
+1、cd e：
+2、cd testgit  //到新建的文件夹目录下
+3、git init  //建个仓库 在testgit 目录下得到隐藏的.git
+4、在testgit文件夹中新建个文档(例如：read.txt)
+5、git add read.txt	//把文档暂时存在缓存区，可以添加多个，最后一块git commit
+6、git commit -m ""	//把文档交给仓库 双引号里面 作为解释
+7、git status		//可以知道仓库当前状况
+8、git diff		//查看对文档多修改
+9、git log 		//命令显示从最近到最远的提交日志
