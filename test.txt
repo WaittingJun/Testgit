@@ -2,9 +2,12 @@ test
 cat  //display ÄÚÈİ
 git test
 hello
-maodun
+
 conflict
 dev1
-abcdef=1234=ABCD
+
+
+abcdef=1234love
+
 dev2
 12345=54321
