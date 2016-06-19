@@ -7,3 +7,4 @@
 7、git status		//可以知道仓库当前状况
 8、git diff		//查看对文档多修改
 9、git log 		//命令显示从最近到最远的提交日志
+10、git config --global user.name "your name"//我的用户名
