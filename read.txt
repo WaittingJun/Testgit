@@ -26,3 +26,5 @@ git reset -- hard HEAD^(版本回退）
     创建分支：git branch <name>
     切换分支：git checkout <name>
     创建+切换:git checkout -b <name>
+    合并某分支到当前分支：git merge <name(某分支)>
+    删除分支：git branch -d <name>
