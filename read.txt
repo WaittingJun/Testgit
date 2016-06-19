@@ -8,3 +8,5 @@
 8、git diff		//查看对文档多修改
 9、git log 		//命令显示从最近到最远的提交日志
 10、git config --global user.name "your name"//我的用户名
+11、git reset --hard HEAD^	//回退上一个版本，HEAD当前版本，HEAD^上一个版本，HEAD^^上上一个版本，往上
+				10个版本写成HEAD~10
