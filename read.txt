@@ -28,3 +28,5 @@ git reset -- hard HEAD^(版本回退）
     创建+切换:git checkout -b <name>
     合并某分支到当前分支：git merge <name(某分支)>
     删除分支：git branch -d <name>
+
+19、当在本地已建立仓库 上传到github 首先：登录github---创建新的仓库（不知道和你本地创建名字不一样，会有什么效果）---在本地仓库下$ git remote add origin git@github.com:WaittingJun/<仓库名>.git---$ git push -u origin master----以后再上传$ git push origin master.
